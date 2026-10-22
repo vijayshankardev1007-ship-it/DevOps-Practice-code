@@ -12,6 +12,12 @@ resource_groups = {
     rg_name     = "rg-vijay"
     rg_location = "centarl india"
   }
+
+  rg4 = {
+    rg_name     = "rg-humana"
+    rg_location = "centarl india"
+  }
+  
 }
 storage_accounts = {
   sa1 = {
